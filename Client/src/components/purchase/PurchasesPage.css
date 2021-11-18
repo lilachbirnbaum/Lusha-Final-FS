@@ -1,0 +1,15 @@
+#search-bar > div {
+  margin-left: 5%;
+}
+#purchases-table {
+  display: flex;
+  justify-content: center;
+  margin-top: 10%;
+}
+
+#purchase-page-container {
+  min-height: 70vh;
+  background-color: rgb(235, 235, 235);
+  padding-top: 5%;
+  border: 4px solid black;
+}

@@ -1,0 +1,14 @@
+#home-page-container {
+  display: flex;
+  height: 98vh;
+}
+
+#left-side {
+  width: 50%;
+  text-align: "center";
+}
+
+#right-side {
+  width: 50%;
+  background-color: pink;
+}
